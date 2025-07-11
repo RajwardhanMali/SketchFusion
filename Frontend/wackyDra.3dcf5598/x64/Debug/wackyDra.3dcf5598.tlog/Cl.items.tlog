@@ -1,0 +1,17 @@
+D:\CGVR\CP\Test\dependancies\include\imgui\backends\imgui_impl_glfw.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui_impl_glfw.obj
+D:\CGVR\CP\Test\dependancies\include\imgui\backends\imgui_impl_opengl3.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui_impl_opengl3.obj
+D:\CGVR\CP\Test\dependancies\include\imgui\imgui.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui.obj
+D:\CGVR\CP\Test\dependancies\include\imgui\imgui_demo.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui_demo.obj
+D:\CGVR\CP\Test\dependancies\include\imgui\imgui_draw.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui_draw.obj
+D:\CGVR\CP\Test\dependancies\include\imgui\imgui_tables.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui_tables.obj
+D:\CGVR\CP\Test\dependancies\include\imgui\imgui_widgets.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\imgui_widgets.obj
+D:\CGVR\CP\Test2\Callbacks.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\Callbacks.obj
+D:\CGVR\CP\Test2\Drawing.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\Drawing.obj
+D:\CGVR\CP\Test2\DrawingUtils.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\DrawingUtils.obj
+D:\CGVR\CP\Test2\glad.c;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\glad.obj
+D:\CGVR\CP\Test2\GuiManager.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\GuiManager.obj
+D:\CGVR\CP\Test2\Main.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\Main.obj
+D:\CGVR\CP\Test2\OpenGLUtils.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\OpenGLUtils.obj
+D:\CGVR\CP\Test2\SaveManager.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\SaveManager.obj
+D:\CGVR\CP\Test2\ShaderManager.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\ShaderManager.obj
+D:\CGVR\CP\Test2\WindowManager.cpp;D:\CGVR\CP\Test2\wackyDra.3dcf5598\x64\Debug\WindowManager.obj
